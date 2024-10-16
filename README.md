@@ -25,11 +25,10 @@
 
 Hey there! I'm **Abdul Moid**, a passionate Full Stack Developer from Pakistan. With over 4 years of experience in web development, I enjoy creating modern web applications with a focus on user experience and performance.
 
-- 🔭 I’m currently working on **[My Startup](https://github.com/AbdulMoid337)**
-- 🌱 I’m currently learning **Next.js** and **TypeScript**
+- 🌱 I’m currently learning **Next.js** and **React**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me anything, I am happy to help!
-- ⚡ Fun fact: I love gaming and photography.
+- ⚡ Fun fact: I love playing Football and programming.
 
 ---
 
