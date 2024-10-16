@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/abdulmoid/">
+    <a href="https://www.linkedin.com/in/abdulmoid37/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://github.com/AbdulMoid337">
         <img alt="GitHub followers" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
-    <a href="mailto:abdulmoid@example.com">
+    <a href="mailto:abdulmoid337@example.com">
         <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
@@ -135,7 +135,9 @@ Hey there! I'm **Abdul Moid**, a passionate Full Stack Developer from Pakistan. 
 
 <!-- Custom Social Icons -->
 <p align="center">
+    <a align="center" href="https://www.linkedin.com/in/abdulmoid37/"> 
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="60" style="margin-right: 15px;">
+        <a/>
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="60" style="margin-right: 15px;">
     <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="60" style="margin-right: 15px;">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="60">
