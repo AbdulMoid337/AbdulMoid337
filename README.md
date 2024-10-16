@@ -138,7 +138,10 @@ Hey there! I'm **Abdul Moid**, a passionate Full Stack Developer from Pakistan. 
     <a align="center" href="https://www.linkedin.com/in/abdulmoid37/"> 
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="60" style="margin-right: 15px;">
         <a/>
+            <a href="https://x.com/abdulmoid337" align="center">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="60" style="margin-right: 15px;">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="60" style="margin-right: 15px;">
+                <a/>
+    <a align="center" href="https://www.instagram.com/webd_freak/"> 
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="60">
+                                 <a/>
 </p>
