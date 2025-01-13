@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Abdul Moid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-<h4 align="end"> Github is Github'ing</h4>
+<h1 align="center">Hi, I'm Abdul Moid. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h4 align="end"> Github is Github'ing.</h4>
 
 <!-- Add an animated GIF below the greeting -->
 <p align="center">
