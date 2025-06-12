@@ -24,7 +24,7 @@
 <!-- About Me Section -->
 ## 🙋‍♂️ About Me
 
-Hey there! I'm **Abdul Moid**, a passionate Full Stack Developer from Pakistan. With over 4 years of experience in web development, I enjoy creating modern web applications with a focus on user experience and performance.
+Hey there! I'm **Abdul Moid**, a passionate Full Stack Developer from India, Hyderabad. With over 4 years of experience in web development, I enjoy creating modern web applications with a focus on user experience and performance.
 
 - 🌱 I’m currently learning **Next.js** and **React**
 - 👯 I’m looking to collaborate on **open-source projects**
